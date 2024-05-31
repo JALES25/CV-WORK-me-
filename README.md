@@ -5,7 +5,7 @@ This is to be used to showcase projects i"ve worked on
 ![Site preview](https://github.com/JALES25/TYLONs17/blob/main/public/images/Site%20concept%202024-01-25%2015-03-39.png)
 
 
-## httpsL//purre-organix.vercel.app/
+## https://purre-organix.vercel.app/
 ![Site preview](https://github.com/TYLONs17/Purre-Organix/blob/main/public/site/dark-home.png)
 
 
