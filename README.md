@@ -18,5 +18,5 @@ This is to be used to showcase projects i"ve worked on
 # TYLONs-Phone https://github.com/TYLONs17/tylons-phone
 ![Site preview](https://github.com/TYLONs17/tylons-phone/blob/main/public/screenshots/image1.png)
 
-# TODO APP (React Native)
+# TODO APP (React Native) https://github.com/TYLONs17/Todo-App
 ![Site preview](https://github.com/TYLONs17/Todo-App/blob/main/assets/screenshots/Screenshot_2024-07-12_Hero.png)
