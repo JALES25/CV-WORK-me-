@@ -20,3 +20,14 @@ This is to be used to showcase projects i"ve worked on
 
 # TODO APP (React Native) https://github.com/TYLONs17/Todo-App
 ![Site preview](https://github.com/TYLONs17/Todo-App/blob/main/assets/screenshots/Screenshot_2024-07-12_Hero.png)
+
+#
+#
+
+
+# My Certifications
+![Network_Defense](https://github.com/JALES25/CV-WORK-me-/blob/main/assets/NetworkDefenseUpdate20250330-27-y2o3bn.pdf)
+![Endpoint_Security](https://github.com/JALES25/CV-WORK-me-/blob/main/assets/EndpointSecurityUpdate20250325-26-2muh5t.pdf)
+![Cyber_Threat_Management](https://github.com/JALES25/CV-WORK-me-/blob/main/assets/CyberThreatManagementUpdate20250330-27-650kiq.pdf)
+![HCIA_Security Mock](https://github.com/JALES25/CV-WORK-me-/blob/main/assets/HCIA%20Security%20mock%20exam%20cert.jpg)
+![ISC2_CC](https://github.com/JALES25/CV-WORK-me-/blob/main/assets/cc%20%20Pre-asses-%20Obrizum.pdf)
