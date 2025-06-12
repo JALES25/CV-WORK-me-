@@ -26,8 +26,11 @@ This is to be used to showcase projects i"ve worked on
 
 
 # My Certifications
+![Network_Security](https://github.com/JALES25/CV-WORK-me-/blob/main/assets/Network%20Security%20Cert.png)
 ![Network_Defense](https://github.com/JALES25/CV-WORK-me-/blob/main/assets/NetworkDefenseUpdate20250330-27-y2o3bn.pdf)
 ![Endpoint_Security](https://github.com/JALES25/CV-WORK-me-/blob/main/assets/EndpointSecurityUpdate20250325-26-2muh5t.pdf)
 ![Cyber_Threat_Management](https://github.com/JALES25/CV-WORK-me-/blob/main/assets/CyberThreatManagementUpdate20250330-27-650kiq.pdf)
+![Network_Security](https://github.com/JALES25/CV-WORK-me-/blob/main/assets/Network%20Security_certificate_221004954-stud-cut-ac-za_3f5b26a7-4b99-4e31-b7f8-5433be878bf4.pdf)
 ![HCIA_Security Mock](https://github.com/JALES25/CV-WORK-me-/blob/main/assets/HCIA%20Security%20mock%20exam%20cert.jpg)
 ![ISC2_CC](https://github.com/JALES25/CV-WORK-me-/blob/main/assets/cc%20%20Pre-asses-%20Obrizum.pdf)
+![typing.com_test]([https://github.com/JALES25/CV-WORK-me-/blob/main/assets/Screenshot%202025-06-12%20152957.png))
