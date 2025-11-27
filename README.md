@@ -27,7 +27,7 @@ This is to be used to showcase projects i"ve worked on
 
 # My Certifications
 ![Network_Security](https://github.com/JALES25/CV-WORK-me-/blob/main/assets/Network%20Security%20Cert.png)
-![Network_Defense](https://github.com/JALES25/CV-WORK-me-/blob/main/assets/Network%20Defense.png)
+![Network_Defense](https://github.com/JALES25/CV-WORK-me-/blob/main/assets/Network%20Defence.png)
 ![Endpoint_Security](https://github.com/JALES25/CV-WORK-me-/blob/main/assets/Endpoint%20Security.png)
 ![Cyber_Threat_Management](https://github.com/JALES25/CV-WORK-me-/blob/main/assets/Cyber%20Threat%20Management.png)
 ![Network_Security](https://github.com/JALES25/CV-WORK-me-/blob/main/assets/Network%20Security.png)
